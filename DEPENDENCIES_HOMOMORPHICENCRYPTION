@@ -1,0 +1,10 @@
+pypi/pypi/-/psutil/6.0.0, BSD-2-Clause AND BSD-3-Clause, approved, clearlydefined
+pypi/pypi/-/st-pages/0.5.0, MIT, approved, clearlydefined
+pypi/pypi/-/streamlit-agraph/0.0.45, MIT AND (0BSD AND Apache-2.0 AND MIT) AND (0BSD AND Apache-2.0 AND BSD-3-Clause AND MIT), approved, #15529
+pypi/pypi/-/streamlit-elements/0.1.0, MIT AND (Apache-2.0 AND MIT AND MPL-2.0) AND (Apache-2.0 AND MIT), approved, #15525
+pypi/pypi/-/streamlit-extras/0.4.3, Apache-2.0, approved, clearlydefined
+pypi/pypi/-/streamlit-image-coordinates/0.1.9, MIT, approved, clearlydefined
+pypi/pypi/-/streamlit-javascript/0.1.5, MIT AND (Apache-2.0 AND MIT) AND (Apache-2.0 AND BSD-3-Clause AND MIT), approved, #15527
+pypi/pypi/-/streamlit/1.32.2, Apache-2.0 AND (0BSD AND Apache-2.0 AND BSD-3-Clause AND MIT) AND BSD-3-Clause AND MIT AND CC-BY-3.0 AND OFL-1.1, approved, #15040
+pypi/pypi/-/streamlit_folium/0.21.0, MIT AND (0BSD AND Apache-2.0 AND BSD-3-Clause AND MIT), approved, #15526
+pypi/pypi/-/toml/0.10.2, MIT, approved, clearlydefined

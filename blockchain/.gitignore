@@ -1,0 +1,10 @@
+# file types
+*.json
+*.log
+
+# directories
+chains/
+data/
+showroom/
+**/__pycache__/
+**/*.egg-info/

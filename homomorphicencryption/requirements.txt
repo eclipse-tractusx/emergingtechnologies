@@ -1,0 +1,11 @@
+psutil==6.0.0
+st-pages==0.5.0
+streamlit==1.32.2
+streamlit-agraph==0.0.45
+streamlit-elements==0.1.0
+streamlit-extras==0.4.3
+streamlit_folium==0.21.0
+streamlit-image-coordinates==0.1.9
+streamlit-javascript==0.1.5
+toml==0.10.2
+

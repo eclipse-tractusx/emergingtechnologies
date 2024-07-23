@@ -35,7 +35,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 The project maintains the following source code repositories:
 * https://github.com/eclipse/tractusx
-* https://github.com/eclipse-tractusx/sig-infra
+* https://github.com/eclipse-tractusx/emergingtechnologies/
 ## Third-party Content
 This project leverages the following third party content.
 NO
